@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477039945002",
+    "firebase_url": "https://appata-e242c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appata-e242c",
+    "storage_bucket": "appata-e242c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477039945002:android:12e5c63a4aef5ec13aea53",
+        "android_client_info": {
+          "package_name": "com.tap.tapper.favv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477039945002-fpb5remtv8f8iuvvm3jcppashtrd2o1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWk1NRXMREBhMbvsTruJO53-aRG7qxBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477039945002-fpb5remtv8f8iuvvm3jcppashtrd2o1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
